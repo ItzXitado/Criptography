@@ -1,5 +1,4 @@
-# 🔐 Secure Password Manager - Proof of Concept  
-
+# 🔐 Secure Password Manager - Research Initiative
 This project is a **research initiative** for a **future password manager**, implementing **secure password encryption, storage, and session management**.
 The project development began as a way to deepen understanding of secure cryptography for application in a school project.
 
