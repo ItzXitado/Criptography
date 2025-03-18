@@ -75,10 +75,11 @@ Console.WriteLine("Encrypted Password: " + Convert.ToBase64String(encryptedPassw
 
 ## 📌 Future Improvements  
 
-- [ ] Implement **2FA/MFA** for additional security  
+- [ ] **Mandatory 2FA/MFA** with support for TOTP (Google Authenticator)
 - [ ] Secure UI for managing credentials  
 - [ ] Encrypted backup & restore options  
-- [ ] Cross-platform support  
+- [ ] Implement **protection against screen capture** and **key injection** on Windows.
+- [ ] Use **signed checksums** to detect executable tampering.
 
 ## 📜 License  
 
